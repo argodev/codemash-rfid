@@ -37,3 +37,4 @@ ssh-copy-id -i ~/.ssh/id_rsa pi@host
 
 Configured each machine via the [Digital Signage Instructions](digital-signage/README.md)
 
+Configured each machine via the [RFID Reader Instructions](rfid-readers/README.md)

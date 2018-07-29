@@ -14,7 +14,7 @@ One site that was largely beneficial is [Gordon Turner's blog](https://blog.gord
 ### Install some fonts and basic utilities that we will need
 
 ```bash
-sudo apt-get install -y ttf-mscorefonts-installer unclutter x11-xserver-utils xodotool vim -y
+sudo apt-get install -y ttf-mscorefonts-installer unclutter x11-xserver-utils xodotool vim tmux htop -y
 ```
 
 ### Modify the autostart script
